@@ -1,0 +1,110 @@
+INFO - 06/06/2018 01:47:37 PM - Connetion stablished with DB: chip-seq.db
+INFO - 06/06/2018 01:47:38 PM - Table project was created
+INFO - 06/06/2018 03:10:36 PM - Connetion stablished with DB: chip-seq.db.db
+ERROR - 06/06/2018 03:10:36 PM - Data could not be inserted
+INFO - 06/06/2018 03:17:12 PM - Connetion stablished with DB: chip-seq.db.db.db
+ERROR - 06/06/2018 03:17:12 PM - Data could not be inserted
+INFO - 06/06/2018 03:18:42 PM - Connetion stablished with DB: chip-seq.db
+ERROR - 06/06/2018 03:18:42 PM - Data could not be inserted
+INFO - 06/06/2018 03:29:27 PM - Connetion stablished with DB: chip-seq.db.db
+ERROR - 06/06/2018 03:29:27 PM - Data could not be inserted
+INFO - 06/06/2018 03:35:43 PM - Connetion stablished with DB: chipseq.db
+ERROR - 06/06/2018 03:35:43 PM - Data could not be inserted
+INFO - 06/06/2018 03:39:07 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/06/2018 03:39:07 PM - Table chipseq was created
+INFO - 06/06/2018 03:46:12 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/06/2018 03:46:12 PM - Data could not be inserted
+INFO - 06/06/2018 03:47:33 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/06/2018 03:47:33 PM - Data was inserted on the DB
+INFO - 06/06/2018 04:42:32 PM - Connetion stablished with DB: Chipseq.db.db
+INFO - 06/06/2018 04:43:22 PM - Connetion stablished with DB: Chipseq.db.db
+INFO - 06/06/2018 04:43:46 PM - Connetion stablished with DB: Chipseq.db.db
+INFO - 06/06/2018 04:44:35 PM - Connetion stablished with DB: Chipseq.db.db
+ERROR - 06/06/2018 04:44:35 PM - Could not Select project statuses. Check if the table exists.
+INFO - 06/06/2018 04:51:50 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/06/2018 04:51:50 PM - Could not Select project statuses. Check if the table exists.
+INFO - 06/06/2018 04:56:34 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/06/2018 04:56:34 PM - Could not Select project statuses. Check if the table exists.
+INFO - 06/06/2018 05:01:11 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/06/2018 05:01:11 PM - Selected cell_type
+INFO - 06/06/2018 05:14:57 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/06/2018 05:14:57 PM - Table chipseq was created
+INFO - 06/06/2018 05:15:09 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/06/2018 05:15:09 PM - Data was inserted on the DB
+INFO - 06/06/2018 05:15:15 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/06/2018 05:15:15 PM - Selected cell_type
+INFO - 06/06/2018 05:16:13 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/06/2018 05:16:13 PM - Selected cell_type
+INFO - 06/07/2018 11:12:50 AM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 11:12:50 AM - Selected chipseq with assay: H3K4me3
+INFO - 06/07/2018 11:24:12 AM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 11:24:12 AM - Selected chipseq with assay: None
+INFO - 06/07/2018 11:24:49 AM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 11:24:49 AM - Selected chipseq with assay: None
+INFO - 06/07/2018 11:26:26 AM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 11:26:26 AM - Selected chipseq with assay: None
+INFO - 06/07/2018 11:26:32 AM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 11:26:32 AM - Selected chipseq with assay: None
+INFO - 06/07/2018 11:28:32 AM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 11:28:32 AM - Selected chipseq with assay: None
+INFO - 06/07/2018 11:29:09 AM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 11:29:09 AM - Selected chipseq with assay: None
+INFO - 06/07/2018 11:44:26 AM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 11:44:26 AM - Selected chipseq with assay: None
+INFO - 06/07/2018 11:45:32 AM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 11:45:32 AM - Could not Select chipseq assay_track_name. Check if the table exists.
+INFO - 06/07/2018 11:46:54 AM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 11:46:54 AM - Could not Select chipseq assay_track_name. Check if the table exists.
+INFO - 06/07/2018 11:48:41 AM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 11:48:41 AM - Could not Select chipseq assay_track_name. Check if the table exists.
+INFO - 06/07/2018 11:52:44 AM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 11:52:44 AM - Could not Select chipseq assay_track_name. Check if the table exists.
+INFO - 06/07/2018 11:54:07 AM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 11:54:07 AM - Could not Select chipseq assay_track_name. Check if the table exists.
+INFO - 06/07/2018 11:56:18 AM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 11:56:18 AM - Could not Select chipseq assay_track_name. Check if the table exists.
+INFO - 06/07/2018 01:41:03 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 01:44:16 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 01:44:16 PM - Selected chipseq with assay: False
+INFO - 06/07/2018 01:45:00 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 01:45:00 PM - Selected chipseq with assay: False
+INFO - 06/07/2018 01:47:13 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 01:47:13 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 01:48:23 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 01:48:23 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 01:49:19 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 01:49:19 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 01:53:10 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 01:53:10 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 01:57:26 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 01:57:26 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 01:58:21 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 01:58:21 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 02:00:44 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 02:00:44 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 02:01:13 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 02:01:13 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 02:05:56 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 02:06:27 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 02:06:27 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 02:07:37 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 02:07:37 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 02:23:47 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 02:24:12 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 02:45:31 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 02:45:31 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 02:50:14 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 02:50:14 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 02:50:40 PM - Connetion stablished with DB: Chipseq.db
+ERROR - 06/07/2018 02:50:40 PM - Could not Select chipseq assay_cell. Check if the table exists.
+INFO - 06/07/2018 02:52:49 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 02:52:49 PM - Selected chipseq with assay: H3K27me3
+INFO - 06/07/2018 02:53:34 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 02:53:34 PM - Selected chipseq with assay_track_name: H3K36me3
+INFO - 06/07/2018 03:08:05 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 03:10:02 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 03:10:02 PM - assay:H3K27me3 was updated for assay_new: PELO_SPORT_TUDO
+INFO - 06/07/2018 03:10:45 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 03:10:45 PM - donor:McGill0012 was updated for donor_new: 87_E_NOSSO
+INFO - 06/07/2018 03:32:05 PM - Connetion stablished with DB: Chipseq.db
+INFO - 06/07/2018 03:32:05 PM - Rows where track_name is: "EMC_McGill0012_1_skeletalMuscleMD_H3K36me3_coverage",  were deleted
